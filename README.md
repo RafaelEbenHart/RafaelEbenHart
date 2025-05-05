@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hello World
 
 # 💫 About Me:
-Mahasiswa Universitas Multi Data Palembang<br>Program Studi S1 Sistem Informasi 2023
+- 🏫 Mahasiswa Universitas Multi Data Palembang
+- 📚  Program Studi S1 Sistem Informasi 2023
 
-![depth](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemk0NTEyb3hrOHF0YmdobTBic215Zm92bGdwOWwyYmN3MXZuZ2ozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7DAA3MG4N3aRYl9Mxj/giphy.gif)
+![depth](gif/depth.gif)
 
 
 ## 🌐 Socials:
