@@ -4,7 +4,7 @@
 - 🏫 Mahasiswa Universitas Multi Data Palembang
 - 📚  Program Studi S1 Sistem Informasi 2023
 
-![depth](gif/bochi.gif)
+![depth](gif/Bochi.gif)
 
 
 ## 🌐 Socials:
