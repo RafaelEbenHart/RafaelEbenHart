@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🏫 Mahasiswa Universitas Multi Data Palembang
-- 📚  Program Studi S1 Sistem Informasi 2023
+- 📚  Program Studi Sistem Informasi 2023
 
 ![depth](gif/depth.gif)
 
